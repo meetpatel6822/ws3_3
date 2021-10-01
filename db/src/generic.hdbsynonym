@@ -1,0 +1,8 @@
+{
+  "SInventory": {
+    "target": {
+      "object": "INVENTORY",
+      "schema": "WS3_1_HDI_DB_1"
+    }
+  }
+}
